@@ -1,0 +1,9 @@
+Quais endereços devemos investigar?
+
+Endereço IP público 177.76.xxx.1xx
+Endereço IP privado 192.168.5.192 e sua máscara de rede 255.255.255.0
+Endereço MAC 28-B2-BD-4F-1A-41
+
+
+Os IPs público e privado pertencem à qual classe de rede?
+Que informações podemos obter do nosso endereço MAC? Intel Corporate
